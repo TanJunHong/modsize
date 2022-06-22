@@ -1,7 +1,7 @@
 # modsize.py
 
-A tool used to change the image height/width property of an image. Currently only png/jpg files are supported. 
-
+A tool used to change the image height/width property of an image. Currently only png files are supported.
+<br>Code only works in Linux environment. Modified from original repo to work on Python 3
 
 ## Usage
 
@@ -24,7 +24,7 @@ optional arguments:
 ## Install
 
 * pip install -r requirements.txt
-* [pngcsum](http://schaik.com/png/pngcsum.html)
+* [pngcsum](http://schaik.com/png/pngcsum.html) (Already included)
 
 ## Examples
 
